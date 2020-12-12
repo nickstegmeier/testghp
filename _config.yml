@@ -1,0 +1,4 @@
+name: Testing GitHub Pages
+markdown: kramdown
+pygments: true
+baseurl: /testghp
